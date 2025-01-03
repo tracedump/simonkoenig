@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Simon König
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Simon König and based in Unna, Germany
 - 📫 How to reach me -> koenig.simon@gmail.com
 
 <!---
